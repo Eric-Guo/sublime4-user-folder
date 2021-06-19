@@ -1,4 +1,6 @@
 {
 	"theme": "Default Dark.sublime-theme",
 	"font_face": "Source Code Pro",
+	"hardware_acceleration": "opengl",
+	"font_size": 11,
 }
